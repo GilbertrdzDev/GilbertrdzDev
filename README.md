@@ -1,69 +1,57 @@
-# Building scalable web systems and production-grade digital products.
+# Gilbert Rodriguez
 
-I am Gilbert Rodriguez, a Full Stack Engineer from Colombia with 8+ years of professional experience building software for real businesses, real users, and real operational constraints.
+## Full Stack Engineer building scalable web systems, SaaS products, and ecommerce platforms.
 
-My work is focused on backend-heavy web platforms, SaaS architecture, ecommerce systems, WordPress and WooCommerce engineering, API design, and clean business logic that can scale beyond the first version.
+I am a Full Stack Engineer from Colombia with 8+ years of professional experience building production software for real businesses, users, and operational constraints.
+
+My strongest area is backend engineering: PHP, Laravel, WordPress, WooCommerce, APIs, business logic, authentication, roles, permissions, queues, cron jobs, MySQL, performance, and production architecture.
 
 Open to remote work, international contracts, and freelance projects.
 
----
-
-## Engineering Profile
-
-I build software where reliability, maintainability, and business impact matter.
-
-My strongest area is backend engineering: designing application structure, modeling business rules, integrating systems, optimizing performance, and shipping production-ready features with clean, understandable code.
-
-I also work across the frontend when the product needs it, especially on dashboards, admin panels, ecommerce interfaces, internal tools, and SaaS workflows where the interface is tightly connected to complex backend behavior.
+<p>
+  <a href="http://gilbertrdz.dev">Website</a> ·
+  <a href="https://co.linkedin.com/in/gilbertrdzdev/en">LinkedIn</a> ·
+  <a href="mailto:gilbertrdz.dev@gmail.com">Email</a> ·
+  <a href="https://github.com/GilbertrdzDev">GitHub</a>
+</p>
 
 ---
 
-## Core Expertise
+## Engineering Focus
 
-### Backend Engineering
-
-| Area | Experience |
+| Area | What I bring |
 | --- | --- |
-| PHP & Laravel | Production applications, APIs, authentication, roles, permissions, queues, scheduled jobs, and business workflows |
-| WordPress Engineering | Advanced plugin development, custom themes, WooCommerce extensions, automations, and performance improvements |
-| SaaS Architecture | Multi-step business logic, dashboards, subscription-ready systems, admin workflows, and scalable application structure |
-| Data & Integrations | MySQL, REST APIs, third-party integrations, document generation, ecommerce operations, and backend automation |
-| Performance & Reliability | Query optimization, queue systems, cron jobs, deployment pipelines, server configuration, and production debugging |
-
-### Frontend Engineering
-
-| Area | Experience |
-| --- | --- |
-| JavaScript & TypeScript | Interactive product interfaces, API-driven views, and maintainable frontend behavior |
-| React & Angular | Component-based applications, dashboards, admin tools, and frontend architecture |
-| Livewire & AlpineJS | Laravel-native interfaces, dynamic forms, internal platforms, and full-stack workflows |
-| TailwindCSS, SCSS & Bootstrap | Clean, responsive interfaces built around product needs instead of decoration |
-
-### Architecture & Delivery
-
-- Translating business requirements into maintainable software systems
-- Designing backend logic that is explicit, testable, and easy to extend
-- Building admin platforms, dashboards, and internal tools for daily operations
-- Creating ecommerce and SaaS foundations that can evolve over time
-- Improving existing systems without unnecessary rewrites
-- Deploying and maintaining applications on Linux servers, AWS, and CI/CD pipelines
+| Backend Engineering | PHP, Laravel, Livewire, REST APIs, MySQL, authentication, authorization, queues, scheduled jobs, and production debugging |
+| WordPress & Ecommerce | Advanced plugin development, custom themes, WooCommerce engineering, Shopify development, automations, and performance improvements |
+| SaaS Architecture | Business logic design, dashboard systems, admin platforms, multi-step workflows, data modeling, and long-term maintainability |
+| Frontend Engineering | JavaScript, TypeScript, React, Angular, AlpineJS, TailwindCSS, SCSS, Bootstrap, and API-driven interfaces |
+| Delivery & Infrastructure | AWS, Linux servers, CI/CD, GitHub, deployment pipelines, optimization, and production support |
 
 ---
 
-## What I Build
+## Technology Stack
 
-I have built and shipped production systems such as:
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,react,angular,tailwind,mysql,aws,git,linux" alt="PHP, Laravel, WordPress, JavaScript, TypeScript, React, Angular, TailwindCSS, MySQL, AWS, Git, Linux" />
+</p>
 
-- Enterprise administrative systems
-- SaaS applications and internal business platforms
-- Ecommerce platforms and WooCommerce automations
-- Advanced WordPress plugins and custom themes
-- Authentication, role, and permission systems
-- REST APIs and third-party integrations
-- Dashboard systems and operational interfaces
-- PDF generation and document management systems
-- Performance optimization systems
-- Frontend architecture for business-critical workflows
+- **Backend:** PHP, Laravel, Livewire, WordPress, WooCommerce, REST APIs, MySQL
+- **Frontend:** JavaScript, TypeScript, React, Angular, AlpineJS, TailwindCSS, SCSS, Bootstrap
+- **Platforms:** Shopify, AWS, Linux servers, GitHub, CI/CD, deployment pipelines
+- **Architecture:** SaaS systems, business logic, queues, cron jobs, authentication, permissions, performance optimization
+
+---
+
+## Production Experience
+
+I have built and shipped:
+
+- Enterprise administrative systems and internal business platforms
+- SaaS applications, dashboards, and operational workflows
+- Ecommerce platforms, WooCommerce automations, and Shopify implementations
+- Advanced WordPress plugins, custom themes, and backend integrations
+- Authentication, role, permission, REST API, PDF generation, and document management systems
+- Performance optimization and frontend architecture for business-critical products
 
 ---
 
@@ -77,46 +65,16 @@ I have built and shipped production systems such as:
 
 ---
 
-## Technology Stack
-
-- **Backend:** PHP, Laravel, Livewire, WordPress, WooCommerce, REST APIs, MySQL
-- **Frontend:** JavaScript, TypeScript, React, Angular, AlpineJS, TailwindCSS, SCSS, Bootstrap
-- **Platforms:** Shopify, AWS, Linux servers, GitHub, CI/CD, deployment pipelines
-- **Engineering:** SaaS architecture, queues, cron jobs, authentication, authorization, performance optimization
-
----
-
 ## Instructor Work
 
-Alongside professional software engineering, I also teach online.
+I also teach online, with 6+ published courses, 12,000+ students, and students from 30+ countries.
 
-- 6+ published courses
-- 12,000+ students
-- Students from 30+ countries
-
-Teaching keeps my technical communication sharp and reinforces the way I approach software: clear structure, practical examples, and systems that people can understand and maintain.
+Teaching keeps my communication sharp and reinforces the way I build software: clear structure, practical examples, and systems that people can understand, operate, and maintain.
 
 ---
 
-## Working With Me
+## Work With Me
 
-I am available for:
+I am available for remote full stack roles, international contracts, freelance SaaS and ecommerce projects, Laravel and WordPress engineering, backend-heavy product development, architecture improvements, and performance optimization work.
 
-- Remote full stack engineering roles
-- International contract work
-- Freelance SaaS, ecommerce, Laravel, and WordPress projects
-- Backend-heavy product development
-- Architecture and performance improvement work
-
-If you are building a serious web product, modernizing an existing platform, or need an engineer who can understand both code and business operations, I can help turn that into reliable software.
-
----
-
-## Contact
-
-| Channel | Link |
-| --- | --- |
-| GitHub | [github.com/GilbertrdzDev](https://github.com/GilbertrdzDev) |
-| Email | [gilbertrdz.dev@gmail.com](mailto:gilbertrdz.dev@gmail.com) |
-| LinkedIn | [linkedin.com/in/gilbertrdzdev](https://co.linkedin.com/in/gilbertrdzdev/en) |
-| Website | [beziercode.com/cursos](https://beziercode.com/cursos/) |
+If you are building a serious web product or modernizing an existing platform, I can help turn business requirements into reliable production software.
