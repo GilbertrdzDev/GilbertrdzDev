@@ -8,16 +8,16 @@ My strongest area is backend engineering: PHP, Laravel, WordPress, WooCommerce, 
 
 Open to remote work, international contracts, and freelance projects.
 
-<p>
-  <a href="http://gilbertrdz.dev">Website</a> ·
-  <a href="https://co.linkedin.com/in/gilbertrdzdev/en">LinkedIn</a> ·
-  <a href="mailto:gilbertrdz.dev@gmail.com">Email</a> ·
-  <a href="https://github.com/GilbertrdzDev">GitHub</a>
-</p>
+## 🔗 Contact
+
+- 🌐 **Website:** [gilbertrdz.dev](http://gilbertrdz.dev/)
+- 💼 **LinkedIn:** [linkedin.com/in/gilbertrdzdev](https://co.linkedin.com/in/gilbertrdzdev/en)
+- ✉️ **Email:** [gilbertrdz.dev@gmail.com](mailto:gilbertrdz.dev@gmail.com)
+- 💻 **GitHub:** [github.com/GilbertrdzDev](https://github.com/GilbertrdzDev)
 
 ---
 
-## Engineering Focus
+## 🎯 Engineering Focus
 
 | Area | What I bring |
 | --- | --- |
@@ -29,7 +29,7 @@ Open to remote work, international contracts, and freelance projects.
 
 ---
 
-## Technology Stack
+## 🧰 Technology Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,react,angular,tailwind,mysql,aws,git,linux" alt="PHP, Laravel, WordPress, JavaScript, TypeScript, React, Angular, TailwindCSS, MySQL, AWS, Git, Linux" />
@@ -42,7 +42,7 @@ Open to remote work, international contracts, and freelance projects.
 
 ---
 
-## Production Experience
+## 🚀 Production Experience
 
 I have built and shipped:
 
@@ -55,7 +55,7 @@ I have built and shipped:
 
 ---
 
-## Current Focus
+## 📌 Current Focus
 
 - SaaS products with strong backend architecture
 - Ecommerce engineering for Shopify and WooCommerce
@@ -65,7 +65,7 @@ I have built and shipped:
 
 ---
 
-## Instructor Work
+## 🎓 Instructor Work
 
 I also teach online, with 6+ published courses, 12,000+ students, and students from 30+ countries.
 
@@ -73,7 +73,7 @@ Teaching keeps my communication sharp and reinforces the way I build software: c
 
 ---
 
-## Work With Me
+## 🤝 Work With Me
 
 I am available for remote full stack roles, international contracts, freelance SaaS and ecommerce projects, Laravel and WordPress engineering, backend-heavy product development, architecture improvements, and performance optimization work.
 
